@@ -1,0 +1,17 @@
+# Conda environment for the MERIT (CNRS) hands-on: spatial multimodal integration on one HCC core.
+#
+#   conda env create -f environment.yml
+#   conda activate merit
+#
+# Python 3.12 (spatiomic's SOM backend, xpysom, does not build on 3.13).
+# multispace is installed from the wheel in wheels/ (in-house package, not on PyPI yet).
+# Versions are the ones the notebook was run and tested with (Nov 2026).
+
+name: merit
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      - -r requirements.txt
