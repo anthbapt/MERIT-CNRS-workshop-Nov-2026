@@ -1,4 +1,4 @@
-# Integrating heterogeneous data in spatial biology: hands-on
+# Integrating heterogeneous data in spatial biology
 
 MERIT (CNRS) workshop, November 2026 · Dr Anthony Baptista, King's College London
 
