@@ -3,7 +3,7 @@
 MERIT (CNRS) workshop, November 2026 · Dr Anthony Baptista, King's College London
 
 One hepatocellular carcinoma (HCC) core, one FFPE section, three instruments: **H&E**, **Xenium Prime 5K**
-(5,001 genes, 8,290 cells) and **COMET** (DAPI + 15 proteins). In 22 minutes you load the three layers into one
+(5,001 genes, 8,290 cells) and **COMET** (DAPI + 15 proteins). In 30 minutes you load the three layers into one
 SpatialData object, check the registration and the segmentation, cluster the protein pixels without segmentation,
 bring the pixels back to the cells, compare joint and single-modality views, type cells from RNA and protein, and ask
 which cell types sit next to which. A non-tumour core from the same tissue microarray is used for a tumour vs.
