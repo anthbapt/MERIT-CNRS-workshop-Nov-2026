@@ -72,11 +72,17 @@ After setup the folder looks like this:
 ```
 MERIT-CNRS-workshop-Nov-2026/
 ├── handson_core01_hcc.ipynb
-├── demo_liver_registration.ipynb
+├── demo_liver_registration.ipynb  # (optional)
 ├── workshop_hcc.py
 ├── prepared/           from prepared.zip
 ├── figures/            from figures.zip
-└── liver_prepared/     from liver_prepared.zip (demo)
+└── liver_prepared/     from liver_prepared.zip (optional demo)
+```
+
+Now, we can open the handson_core01_hcc.ipynb with the following command:
+
+```bash
+jupyter lab demo_liver_registration.ipynb
 ```
 
 ## Xenium Explorer (live demo)
