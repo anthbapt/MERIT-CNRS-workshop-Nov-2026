@@ -79,12 +79,6 @@ MERIT-CNRS-workshop-Nov-2026/
 └── liver_prepared/     from liver_prepared.zip (optional demo)
 ```
 
-Now, we can open the handson_core01_hcc.ipynb with the following command:
-
-```bash
-jupyter lab demo_liver_registration.ipynb
-```
-
 ## Xenium Explorer (live demo)
 
 Unzip `10x_Liver_cancer.zip` and open `10x_Liver_cancer/Xenium_V1_hLiver_cancer_section_FFPE_outs/experiment.xenium`
