@@ -67,14 +67,6 @@ unzip liver_prepared.zip    # -> liver_prepared/ (optional)
 jupyter lab handson_core01_hcc.ipynb
 ```
 
-Unzip with `unzip` (macOS, Linux) or a double-click in the macOS Finder: some other tools (Windows Explorer,
-Python's `zipfile`) garble the "α" in the αSMA file names inside `prepared.zip`.
-
-Without conda: create a Python **3.12** environment, then `pip install -r requirements.txt` from the repository folder.
-Python 3.13 does not work (spatiomic's SOM backend does not build on it).
-
-No internet at the venue? The same zip files are on the USB stick.
-
 After setup the folder looks like this:
 
 ```
